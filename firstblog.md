@@ -1,19 +1,19 @@
 eTraining
 =========
 
-Lange wurde über eLearning diskutiert, und wenig gemacht. Jetzt brauchen wir dringend eine Lösung, daher soll dieser Blog zeigen, was hier mit einer normalen ownCloud Installation zu erreichen ist, ohne dass langes Kennenlernen der Plattform für alle Beteiligte nötig ist.
+Lange wurde über eLearning diskutiert, aber wenig gemacht. Jetzt brauchen wir dringend eine Lösung. Dieser Blog soll zeigen, was hier mit einer normalen ownCloud Installation zu erreichen ist, ohne dass langes Kennenlernen der Plattform für alle Beteiligten nötig ist.
 
 Es wird eine wirklich einfache Variante gezeigt, mit der aber schon erstaunlich viel möglich ist.
 
-Das besondere ist, dass wir nicht nur Inhalte zur Verfügung stellen können (das ist, was auf Youtube passiert), sondern dass es einen Weg zurück gibt, mit dem Schüler ihre Ergebnisse zur Ansicht zurück geben können. Darüberhinaus gibt es noch eine einfache, schriftliche Dialog-Möglichkeit um einzelne Dateien.
+Das besondere ist, dass wir nicht nur Inhalte zur Verfügung stellen können (das ist, was auf Youtube passiert), sondern dass es einen Weg für Schüler gibt, ihre Ergebnisse zur Ansicht/Korrektur zurückzuliefern. Darüberhinaus gibt es noch eine einfache Dialog-Möglichkeit, um einzelne Dateien zu kommentieren.
 
-Damit besteht eine Feedback Schleife zwischen Schüler und Lehrer, die zwar natürlich immer noch nicht an den persönlichen Unterricht heranreicht, aber besser als nichts ist.
+Damit besteht eine Feedback Schleife zwischen Schüler und Lehrer, die natürlich nicht an persönlichen Unterricht heranreicht, aber besser als z.B. Mailkommunikation ist.
 
-Dieses System sollte nicht nur Schullehrern helfen, sondern auch anderen Berufsgruppen wie zb. Physiotherapeuten, die damit den Patienten per Video etwas zeigen können und Hinweise auf Basis der zurückgeschickten Dateien geben können.
+Dieses System kann nicht nur Lehrern helfen, sondern auch anderen Berufsgruppen wie z.B. Physiotherapeuten, die damit den Patienten per Video etwas zeigen und Hinweise auf Basis der zurückgeschickten Dateien geben können.
 
 ## ownCloud als eTraining Platform
 
-ownCloud ist eine open source Infrastruktur zum Betreiben von sog. privaten Cloud-Speicher. Mit seinen Möglichkeiten zur Zusammenarbeit bietet es alles, was in für die Aufgabenstellung einfaches eTraining notwendig ist.
+ownCloud ist eine open source Infrastruktur zum Betreiben von sog. privaten Cloud-Speicher. Mit seinen Möglichkeiten zur Zusammenarbeit bietet es alles, was für die Aufgabenstellung eines einfachen eTrainings notwendig ist.
 
 ### Dateien teilen
 
@@ -22,15 +22,15 @@ ownCloud als private Cloud stellt als zentralen Baustein der ganzen Idee das sog
 ![Frau Teacher hat ein Verzeichnis mit der Schülerin Felizitas geteilt.](media/sharing.png "Frau Teacher teilt ein Verzeichnis mit Schülerin Felizitas")
 
 
-Praktisch legt der Lehrer für jeden seiner Schüler ein Verzeichnis an, in das Dokumente oder Videos für einen Schüler gespeichert werden. Mittels des *File Sharings* kann der Lehrer dieses Verzeichnis nun per Klick mit dem entsprechenden Schüler teilen. Das bedeutet, das das Verzeichnis des Lehrers im Account des Schülers "auftaucht".
+Praktisch legt der Lehrer für jeden seiner Schüler ein Verzeichnis an, in das Dokumente oder Videos für einen Schüler gespeichert werden. Mittels des *File Sharings* kann der Lehrer dieses Verzeichnis nun per Klick mit dem entsprechenden Schüler teilen. Das bedeutet, dass das Verzeichnis des Lehrers im Account des Schülers "auftaucht".
 
-Der Schüler   hat damit Zugriff auf den Inhalt, den der Lehrer für ihn zur Verfügung gestellt hat. Er kann Dokumente herunterladen und Videos ansehen.
+Der Schüler hat damit Zugriff auf den Inhalt, den der Lehrer für ihn zur Verfügung gestellt hat. Er kann Dokumente herunterladen und Videos ansehen.
 
 ### Feedback
 
 <img align="right" src="media/kommentare.png">
 
-Nun  ist es aber auch möglich, dass der Schüler eine Datei in den vom Lehrer geteilten Folder zurücklegt. Das geschieht durch Hochladen einer Datei in das Verzeichnis. Das kann zb. ein bearbeitetes und gescanntes Papier sein, oder ebenfalls ein Video.
+Nun  ist es aber auch möglich, dass der Schüler eine Datei in den vom Lehrer geteilten Folder zurücklegt. Das geschieht durch Hochladen einer Datei in das Verzeichnis. Das kann z.B. ein bearbeitetes und gescanntes Papier sein oder auch ein Video.
 
 Der Lehrer kann nun nachvollziehen, was der Schüler mit den Lerninhalten erreicht hat und seinerseits Feedback geben.
 
@@ -38,7 +38,7 @@ Der Lehrer kann nun nachvollziehen, was der Schüler mit den Lerninhalten erreic
 
 Ein in diesem Zusammenhang nützliches Feature ist die Kommentar-Funktion, die ownCloud auf Datei-Ebene zur Verfügung stellt. Damit können von jedem Benutzer Kommentare zu einer Datei geschrieben werden.
 
-Im Falle der geteilten Dateien ist dann ein einfacher Dialog um bestimmte Dateien einfach möglich.
+Im Falle der geteilten Dateien ist dann ein einfacher Dialog um bestimmte Dateien leicht möglich.
 
 ## Ausblick
 
